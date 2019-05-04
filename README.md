@@ -7,6 +7,3 @@ This is a second file
 NEVER EVER EVER EVER EVRRRRRR
 
 store passwords
-
-store API credentials
-store credit card
